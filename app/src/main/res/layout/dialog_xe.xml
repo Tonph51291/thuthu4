@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/tv_dialog"
+        android:text="Thông tin chi tiet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_marginBottom="10dp"
+        />
+
+    <ImageView
+        android:id="@+id/img_dialog"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:id="@+id/tv_tenxe_dialog"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:text="uikkkjh" />
+
+    <TextView
+        android:id="@+id/tv_giaban_dialog"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:text="uikkkjh" />
+
+    <TextView
+        android:id="@+id/tv_mota_dialog"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:text="uikkkjh" />
+
+    <TextView
+        android:id="@+id/tv_mausac_dialog"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:text="uikkkjh" />
+
+</LinearLayout>
